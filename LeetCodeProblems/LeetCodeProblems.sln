@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy Problems", "Easy Problems", "{83798ADD-C0EF-4A4F-A672-8ED3081E69C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium Problems", "Medium Problems", "{5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hard Problems", "Hard Problems", "{C8426402-D58E-4F30-BF05-D34F9FA524C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Number", "Palindrome Number\Palindrome Number.csproj", "{3E2DDA1C-7ABC-42A4-BDC9-E7AFD57912A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Integer", "Reverse Integer\Reverse Integer.csproj", "{4D53B00D-F9D0-4E99-82E5-E9BB0FA0EF61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZag Conversion", "ZigZag Conversion\ZigZag Conversion.csproj", "{FEA9D706-CAEE-406D-80B2-9C12DA78AFA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String to Integer (atoi)", "String to Integer (atoi)\String to Integer (atoi).csproj", "{8AF6AEB4-937D-423D-8EFB-782C13703543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2DDA1C-7ABC-42A4-BDC9-E7AFD57912A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2DDA1C-7ABC-42A4-BDC9-E7AFD57912A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2DDA1C-7ABC-42A4-BDC9-E7AFD57912A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2DDA1C-7ABC-42A4-BDC9-E7AFD57912A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D53B00D-F9D0-4E99-82E5-E9BB0FA0EF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D53B00D-F9D0-4E99-82E5-E9BB0FA0EF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D53B00D-F9D0-4E99-82E5-E9BB0FA0EF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D53B00D-F9D0-4E99-82E5-E9BB0FA0EF61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA9D706-CAEE-406D-80B2-9C12DA78AFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA9D706-CAEE-406D-80B2-9C12DA78AFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA9D706-CAEE-406D-80B2-9C12DA78AFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA9D706-CAEE-406D-80B2-9C12DA78AFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF6AEB4-937D-423D-8EFB-782C13703543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF6AEB4-937D-423D-8EFB-782C13703543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF6AEB4-937D-423D-8EFB-782C13703543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF6AEB4-937D-423D-8EFB-782C13703543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E2DDA1C-7ABC-42A4-BDC9-E7AFD57912A5} = {83798ADD-C0EF-4A4F-A672-8ED3081E69C6}
+		{4D53B00D-F9D0-4E99-82E5-E9BB0FA0EF61} = {83798ADD-C0EF-4A4F-A672-8ED3081E69C6}
+		{FEA9D706-CAEE-406D-80B2-9C12DA78AFA9} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
+		{8AF6AEB4-937D-423D-8EFB-782C13703543} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {674166B8-DC2D-49D9-9477-6DEE5D14C0A8}
+	EndGlobalSection
+EndGlobal
