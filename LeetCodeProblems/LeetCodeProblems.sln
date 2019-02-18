@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String to Integer (atoi)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regular Expression Matching", "Regular Expression Matching\Regular Expression Matching.csproj", "{9D43EDD9-F774-4919-A09A-870B2F0C6549}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Container With Most Water", "Container With Most Water\Container With Most Water.csproj", "{DDCF2ACC-FA00-4A4E-AE81-DA011E02CA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer to Roman", "Integer to Roman\Integer to Roman.csproj", "{82DD741C-E716-4AAF-A52F-2D7F336AA604}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{9D43EDD9-F774-4919-A09A-870B2F0C6549}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D43EDD9-F774-4919-A09A-870B2F0C6549}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D43EDD9-F774-4919-A09A-870B2F0C6549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCF2ACC-FA00-4A4E-AE81-DA011E02CA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCF2ACC-FA00-4A4E-AE81-DA011E02CA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCF2ACC-FA00-4A4E-AE81-DA011E02CA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCF2ACC-FA00-4A4E-AE81-DA011E02CA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DD741C-E716-4AAF-A52F-2D7F336AA604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DD741C-E716-4AAF-A52F-2D7F336AA604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DD741C-E716-4AAF-A52F-2D7F336AA604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DD741C-E716-4AAF-A52F-2D7F336AA604}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +67,8 @@ Global
 		{FEA9D706-CAEE-406D-80B2-9C12DA78AFA9} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
 		{8AF6AEB4-937D-423D-8EFB-782C13703543} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
 		{9D43EDD9-F774-4919-A09A-870B2F0C6549} = {C8426402-D58E-4F30-BF05-D34F9FA524C0}
+		{DDCF2ACC-FA00-4A4E-AE81-DA011E02CA63} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
+		{82DD741C-E716-4AAF-A52F-2D7F336AA604} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {674166B8-DC2D-49D9-9477-6DEE5D14C0A8}
