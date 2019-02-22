@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letter Combinations of a Ph
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Sum", "4Sum\4Sum.csproj", "{19DC0037-2987-4EDD-B2F4-82A43CCA51FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Nth Node From End of List", "Remove Nth Node From End of List\Remove Nth Node From End of List.csproj", "{02AA3F8C-2D7E-42E1-8FDD-FFEA3BD42433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Parentheses", "Valid Parentheses\Valid Parentheses.csproj", "{0CD95E06-0131-4C42-8DBC-650039BA4F78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{19DC0037-2987-4EDD-B2F4-82A43CCA51FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19DC0037-2987-4EDD-B2F4-82A43CCA51FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19DC0037-2987-4EDD-B2F4-82A43CCA51FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02AA3F8C-2D7E-42E1-8FDD-FFEA3BD42433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AA3F8C-2D7E-42E1-8FDD-FFEA3BD42433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AA3F8C-2D7E-42E1-8FDD-FFEA3BD42433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AA3F8C-2D7E-42E1-8FDD-FFEA3BD42433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD95E06-0131-4C42-8DBC-650039BA4F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD95E06-0131-4C42-8DBC-650039BA4F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD95E06-0131-4C42-8DBC-650039BA4F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD95E06-0131-4C42-8DBC-650039BA4F78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +123,8 @@ Global
 		{20D4A386-B1A7-4F7D-9D29-627728C03BB3} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
 		{4CB12F72-750E-48CB-9821-F22797861858} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
 		{19DC0037-2987-4EDD-B2F4-82A43CCA51FE} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
+		{02AA3F8C-2D7E-42E1-8FDD-FFEA3BD42433} = {5E49C7F8-95E0-4764-ACAB-232CB2B49AC9}
+		{0CD95E06-0131-4C42-8DBC-650039BA4F78} = {83798ADD-C0EF-4A4F-A672-8ED3081E69C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {674166B8-DC2D-49D9-9477-6DEE5D14C0A8}
